@@ -1,0 +1,17 @@
+{
+	"name": "FileServer1",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "FileServer",
+		"typeProperties": {
+			"host": "C:\\dp-203\\data-engineering-ilt-deployment\\Allfiles\\00\\artifacts\\environment-setup",
+			"userId": "piyush.ajmera1@outlook.com",
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiI0ZjJiYmE0ZS1kYWIyLTQ4NWMtOGM0MC1lMjZjYWZmMmRhNzQiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+		},
+		"connectVia": {
+			"referenceName": "integrationRuntime1",
+			"type": "IntegrationRuntimeReference"
+		}
+	}
+}
