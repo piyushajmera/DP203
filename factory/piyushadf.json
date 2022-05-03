@@ -1,0 +1,9 @@
+{
+	"name": "piyushadf",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2aaec1bd-b353-421e-af4b-e3c660ab6756",
+		"tenantId": "ce4ed224-e501-4cfc-b09a-e986ba3a7da8"
+	}
+}
